@@ -1,0 +1,27 @@
+{
+  "name": "@root-kings/tushar",
+  "version": "0.0.1",
+  "description": "This is Tushar.",
+  "main": "index.js",
+  "bin": {
+    "tushar-greet": "./bin/greet.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/root-kings/tushar.git"
+  },
+  "keywords": [
+    "bot",
+    "tushar",
+    "hello"
+  ],
+  "author": "Krushn Dayshmookh <krushndayshmookh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/root-kings/tushar/issues"
+  },
+  "homepage": "https://github.com/root-kings/tushar#readme"
+}
